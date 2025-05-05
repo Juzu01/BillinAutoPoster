@@ -7,7 +7,7 @@ BASE         = pathlib.Path(__file__).parent
 DL_DIR       = BASE / "downloads"
 LINKS_FILE   = BASE / "reels_links.txt"
 
-ADB_BIN      = r"C:\Users\ksawe\Downloads\platform-tools-latest-windows\platform-tools\adb.exe"
+ADB_BIN      = r"C:\Users\YOUR_USER\Downloads\platform-tools-latest-windows\platform-tools\adb.exe"
 DEVICE       = "emulator-5574"                  # id z `adb devices`
 TARGET_MP4   = "/sdcard/Movies/upload.mp4"      # katalog skanowany
 DELAY_SEC    = 20                               # przerwa między postami
