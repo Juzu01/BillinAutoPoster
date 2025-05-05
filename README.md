@@ -31,7 +31,7 @@ Advanced Billin Instagram Reels Auto Poster - IOS/ANDROID
 
 ```bash
 # clone & enter project
-git clone https://github.com/you/billin-pipeline.git
+git clone https://github.com/Juzu01/billin-pipeline.git
 cd billin-pipeline
 
 # create venv & install
